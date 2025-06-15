@@ -1,5 +1,15 @@
-## Hi there 👋
+![Python-Dark](https://github.com/user-attachments/assets/78a48bb6-8ce1-406d-a1a8-cb4c1b504507)<p align = "center">
+👋
+</p>
+# Skills
+Languages:[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,html,css,js,r,cpp,cs,c)](https://skillicons.dev)
 
+Frameworks & Databases: [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,react,mongodb,django)](https://skillicons.dev)
+
+Other: [![My Skills](https://skillicons.dev/icons?i=git,latex,matlab,pytorch,opencv)](https://skillicons.dev)
+
+- 🔭 I’m currently working on #Dribbl
+- 🌱 I’m currently learning #OpenCV and #YOLO
 <!--
 **EdrisAdel/EdrisAdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
