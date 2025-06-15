@@ -1,15 +1,23 @@
-<p align = "center">
-👋
-</p>
-# Skills
-Languages:[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,html,css,js,r,cpp,cs,c)](https://skillicons.dev)
+<h1 align="center">Hi I'm Edris Adel 👋</h1>
 
-Frameworks & Databases: [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,react,mongodb,django)](https://skillicons.dev)
+# 💭 About Me
+I'm a third-year student studying at WLU, and I'm focusing on learning about general machine learning, finding different ways to improve my skills, and building upon my project ideas.
 
-Other: [![My Skills](https://skillicons.dev/icons?i=git,latex,matlab,pytorch,opencv)](https://skillicons.dev)
+Feel free to contact me and look for my projects below!
 
-- 🔭 I’m currently working on #Dribbl
-- 🌱 I’m currently learning #OpenCV and #YOLO
+# Technical Skills
+Languages: 
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,html,css,js,r,cpp,cs,c)](https://skillicons.dev)
+
+Frameworks & Databases:
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,react,mongodb,django)](https://skillicons.dev)
+
+Other:
+
+[![My Skills](https://skillicons.dev/icons?i=git,latex,matlab,pytorch,opencv)](https://skillicons.dev)
+
 <!--
 **EdrisAdel/EdrisAdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
