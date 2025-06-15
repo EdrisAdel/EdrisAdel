@@ -1,4 +1,4 @@
-![Python-Dark](https://github.com/user-attachments/assets/78a48bb6-8ce1-406d-a1a8-cb4c1b504507)<p align = "center">
+<p align = "center">
 👋
 </p>
 # Skills
