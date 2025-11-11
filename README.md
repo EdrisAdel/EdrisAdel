@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Edris Adel 👋</h1>
 
 # 💭 About Me
-I'm a third-year student studying at WLU, and I'm mainly interested on learning about machine learning, data science, and software engineering. I'm currently finding different ways to improve my skills, and building upon my project ideas.
+I'm a third-year CS student studying at Wilfrid Laurier, and I'm mainly interested on learning about machine learning, data science, and software engineering. I'm currently finding different ways to improve my skills, and building upon my project ideas.
 
 Feel free to contact me and look for my projects below!
 
